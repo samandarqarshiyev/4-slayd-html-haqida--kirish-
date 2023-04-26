@@ -1,0 +1,17 @@
+h1{
+    text-align: center;      /* align -- text joylashuvi */
+    color: blue;
+    font-size: 48px;
+}
+img{
+    width: 100%;
+    height: 800px;
+}
+
+img{
+    background-image: url('1_rasm.jpg');
+    height: 400px;
+}
+
+/* 2 ta bir xil teg bo'lsa pasdagiga qaraydi  */
+
